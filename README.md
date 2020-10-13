@@ -1,5 +1,8 @@
 <!------------------------   Untitled design-1584x396   ------------------------>
-<iframe src="//cdn.bannersnack.com/banners/bvtpyktt6/embed/index.html?userId=42653163&t=1602623542" width="1584" height="396" scrolling="no" frameborder="0" allowtransparency="true" allow="autoplay" allowfullscreen="true"></iframe>
+<script type="text/javascript">
+var bannersnack_embed = {"hash":"bvtpyktt6","width":1584,"height":396,"t":1602623542,"userId":42653163,"type":"html5"};
+</script>
+<script type="text/javascript" src="//cdn.bannersnack.com/iframe/embed.js"></script>
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/about.png?raw=true"/>
 
