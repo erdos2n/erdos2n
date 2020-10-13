@@ -1,4 +1,4 @@
-![]("./images/banner.gif")
+![](images/banner.gif)
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/about.png?raw=true"/>
 
