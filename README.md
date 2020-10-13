@@ -1,8 +1,4 @@
-<!------------------------   Untitled design-1584x396   ------------------------>
-<script type="text/javascript">
-var bannersnack_embed = {"hash":"bvtpyktt6","width":1584,"height":396,"t":1602623542,"userId":42653163,"type":"html5"};
-</script>
-<script type="text/javascript" src="//cdn.bannersnack.com/iframe/embed.js"></script>
+![]("./images/banner.gif")
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/about.png?raw=true"/>
 
