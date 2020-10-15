@@ -1,12 +1,21 @@
 # Hello! I'm Rafa
 
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/about.png?raw=true"/>
 
-- 🔭 I’m currently working on an Open Source Machine Learning Platform
-- 🌱 I’m currently learning Front End Development using Dash
+## About Me
+------
+- 🔭 I’m currently working on
+	- Using Dash to make an Open Source Machine Learning Platform
+	- Building a Dashboard to make a PyTorch NN
+- 🌱 I’m currently learning how to create dynamic callbacks in Dash
 - 💬 Ask me anything about Python/Machine Learning
 - 📫 How to reach me: rafacarrasco07@gmail.com
-- ⚡ Fun fact: I used to be a DJ 🎧
+- ⚡ Fun facts:
+	- I used to be a DJ 🎧
+	- I am a first generation college graduate and master's degree holder
+	- I was a competitive powerlifter, best lifts (lbs)
+		- squat: 615
+		- bench press: 425
+		- deadlift: 655 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
