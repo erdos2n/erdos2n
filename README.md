@@ -3,7 +3,7 @@
 
 ## About Me
 ------
-- 🔭 I’m currently working on
+- 🔭 Current Projects
 	- Using Dash to make an Open Source Machine Learning Platform
 	- Building a Dashboard to make a PyTorch NN
 - 🌱 I’m currently learning how to create dynamic callbacks in Dash
