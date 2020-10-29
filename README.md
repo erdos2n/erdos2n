@@ -64,10 +64,10 @@
 		</th>
 	</tr>
 	<tr>
-		<td>
+		<td width="(100/x)%">
 			<img src=https://github.com/erdos2n/sentiment-analyzer-dashboard/blob/master/images/app.gif width="50%"/>
 		</td>
-		<td>
+		<td width="(100/x)%">
 			<ul>
 				<li> Built with Dash</li>
 				<li> Python 3.6 </li>
