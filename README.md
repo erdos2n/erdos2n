@@ -50,3 +50,4 @@
 
 ## Quick Projects
 * [Sentiment-Analyzer-Dashboard](https://github.com/erdos2n/sentiment-analyzer-dashboard)
+![](https://github.com/erdos2n/sentiment-analyzer-dashboard/blob/master/images/app.gif)
