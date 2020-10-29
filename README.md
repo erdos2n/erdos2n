@@ -63,6 +63,19 @@
 			</h2>
 		</th>
 	</tr>
+	<tr>
+		<td>
+			<img src=https://github.com/erdos2n/sentiment-analyzer-dashboard/blob/master/images/app.gif width="50%"/>
+		</td>
+		<td>
+			<ul>
+				<li> Built with Dash</li>
+				<li> Python 3.6 </li>
+				<li> NLP - Vader Sentiment Analyzer </li>
+				<li> Charts and Plots - Plotly Graph Objects </li>
+			</ul>
+		</td>
+	</tr>
 </table>
 ----
 
