@@ -49,10 +49,7 @@
 <br/>
 
 ## Quick Projects
-----
-* [Sentiment-Analyzer-Dashboard](https://github.com/erdos2n/sentiment-analyzer-dashboard)
-<br/>
-<img src=https://github.com/erdos2n/sentiment-analyzer-dashboard/blob/master/images/app.gif width="50%"/>
+-------
 
 <table>
 	<tr>
@@ -66,7 +63,7 @@
 	<tr>
 		<td width="50%">
 			<p align="center">
-			<img src=https://github.com/erdos2n/sentiment-analyzer-dashboard/blob/master/images/app.gif width="80%"/>
+			<img src=https://github.com/erdos2n/sentiment-analyzer-dashboard/blob/master/images/app.gif/>
 			</p>
 		</td>
 		<td width="50%">
@@ -79,5 +76,7 @@
 		</td>
 	</tr>
 </table>
-----
+
+
+-------
 
