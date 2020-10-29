@@ -53,5 +53,16 @@
 * [Sentiment-Analyzer-Dashboard](https://github.com/erdos2n/sentiment-analyzer-dashboard)
 <br/>
 <img src=https://github.com/erdos2n/sentiment-analyzer-dashboard/blob/master/images/app.gif width="50%"/>
+
+<table>
+	<tr>
+		<th colspan="2">
+			<h2><a href="https://github.com/erdos2n/sentiment-analyzer-dashboard">
+				Sentiment Analyzer Dashboard
+				<a/>
+			</h2>
+		</th>
+	</tr>
+</table>
 ----
 
