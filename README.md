@@ -54,7 +54,8 @@
 <table>
 	<tr>
 		<th colspan="2">
-			<h2><a href="https://github.com/erdos2n/sentiment-analyzer-dashboard">
+			<h2>
+				<a href="https://github.com/erdos2n/sentiment-analyzer-dashboard">
 				Sentiment Analyzer Dashboard
 				<a/>
 			</h2>
@@ -76,7 +77,4 @@
 		</td>
 	</tr>
 </table>
-
-
--------
 
