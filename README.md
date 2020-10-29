@@ -49,5 +49,9 @@
 <br/>
 
 ## Quick Projects
+----
 * [Sentiment-Analyzer-Dashboard](https://github.com/erdos2n/sentiment-analyzer-dashboard)
-![](https://github.com/erdos2n/sentiment-analyzer-dashboard/blob/master/images/app.gif)
+<br/>
+<img src=https://github.com/erdos2n/sentiment-analyzer-dashboard/blob/master/images/app.gif width="50%"/>
+----
+
