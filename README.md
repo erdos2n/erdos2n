@@ -65,7 +65,9 @@
 	</tr>
 	<tr>
 		<td width="50%">
-			<img src=https://github.com/erdos2n/sentiment-analyzer-dashboard/blob/master/images/app.gif width="50%"/>
+			<p align="center">
+			<img src=https://github.com/erdos2n/sentiment-analyzer-dashboard/blob/master/images/app.gif width="80"/>
+			</p>
 		</td>
 		<td width="50%">
 			<ul>
