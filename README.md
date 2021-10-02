@@ -4,11 +4,10 @@
 ## About Me
 ------
 - 🔭 Current Projects
-	- Using Dash to make an Open Source Machine Learning Platform
-	- Building a Dashboard to make a PyTorch NN
-- 🌱 I’m currently learning how to create dynamic callbacks in Dash
-- 💬 Ask me anything about Python/Machine Learning
-- 📫 How to reach me: rafacarrasco07@gmail.com
+	- Building Airflow DAGs and Airflow Features
+	- Redshift and RDS Clients
+- 🌱 I'm currently creating custom Operators and Hooks in Airflow
+- 💬 Ask me anything about Python, Airflow, Data Engineering and Machine Learning
 - ⚡ Fun facts:
 	- I used to be a DJ 🎧
 	- I am a first generation college graduate and master's degree holder
@@ -16,16 +15,26 @@
 		- squat: 615
 		- bench press: 425
 		- deadlift: 655 
-
+- Strengths Finder Top 5 (learn more [here](https://www.gallup.com/cliftonstrengths/en/strengthsfinder.aspx))
+	- Positivity
+	- Communication
+	- Achiever
+	- Maximizer
+	- Arranger
+	- 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 - 🌐 &nbsp;
+  ![Airflow](https://img.shields.io/badge/-Airflow-333333?style=flat&logo=apacheairflow)
   ![Dash](https://img.shields.io/badge/-Dash-333333?style=flat&logo=dash)
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 - 🛢 &nbsp;
+  ![Redshift](https://img.shields.io/badge/-Redshift-333333?style=flat&logo=amazonaws)
+  ![RDS](https://img.shields.io/badge/-Redshift-333333?style=flat&logo=amazonaws)
+  ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![Cassandra](https://img.shields.io/badge/-Cassandra-333333?style=flat&logo=cassandra)
@@ -47,34 +56,3 @@
 </a>
 
 <br/>
-
-## Quick Projects
--------
-
-<table>
-	<tr>
-		<th colspan="2">
-			<h2>
-				<a href="https://github.com/erdos2n/sentiment-analyzer-dashboard">
-				Sentiment Analyzer Dashboard
-				<a/>
-			</h2>
-		</th>
-	</tr>
-	<tr>
-		<td width="50%">
-			<p align="center">
-			<img src=https://github.com/erdos2n/sentiment-analyzer-dashboard/blob/master/images/app.gif/>
-			</p>
-		</td>
-		<td width="50%">
-			<ul>
-				<li> Built with Dash</li>
-				<li> Python 3.6 </li>
-				<li> NLP - Vader Sentiment Analyzer </li>
-				<li> Charts and Plots - Plotly Graph Objects </li>
-			</ul>
-		</td>
-	</tr>
-</table>
-
