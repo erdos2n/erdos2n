@@ -33,7 +33,7 @@
   ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 - 🛢 &nbsp;
   ![Redshift](https://img.shields.io/badge/-Redshift-333333?style=flat&logo=amazonaws)
-  ![RDS](https://img.shields.io/badge/-Redshift-333333?style=flat&logo=amazonaws)
+  ![RDS](https://img.shields.io/badge/-RDS-333333?style=flat&logo=amazonaws)
   ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgresql)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
