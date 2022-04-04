@@ -3,25 +3,22 @@
 
 ## About Me
 ------
-- 🔭 Current Projects
-	- Building Airflow DAGs and Airflow Features
-	- Redshift and RDS Clients
-- 🌱 I'm currently creating custom Operators and Hooks in Airflow
 - 💬 Ask me anything about Python, Airflow, Data Engineering and Machine Learning
 - ⚡ Fun facts:
-	- I used to be a DJ 🎧
-	- I am a first generation college graduate and master's degree holder
-	- I was a competitive powerlifter, best lifts (lbs)
-		- squat: 615
-		- bench press: 425
-		- deadlift: 655 
-- Strengths Finder Top 5 (learn more [here](https://www.gallup.com/cliftonstrengths/en/strengthsfinder.aspx))
-	- Positivity
-	- Communication
-	- Achiever
-	- Maximizer
-	- Arranger
-	- 
+    - I used to be a DJ 🎧
+    - I am a first generation college graduate and master's degree holder
+- Strengths Finder Top 10 (learn more [here](https://www.gallup.com/cliftonstrengths/en/strengthsfinder.aspx))
+    - Positivity
+    - Communication
+    - Achiever
+    - Maximizer
+    - Arranger
+    - WOO
+    - Learner
+    - Context
+    - Competition
+    - Analytical
+
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
 - 💻 &nbsp;
