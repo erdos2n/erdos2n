@@ -1,23 +1,19 @@
 # Hello! I'm Rafa
-
-
 ## About Me
 ------
-- 💬 Ask me anything about Python, Airflow, Data Engineering and Machine Learning
-- ⚡ Fun facts:
-    - I used to be a DJ 🎧
-    - I am a first generation college graduate and master's degree holder
-- Strengths Finder Top 10 (learn more [here](https://www.gallup.com/cliftonstrengths/en/strengthsfinder.aspx))
-    - Positivity
-    - Communication
-    - Achiever
-    - Maximizer
-    - Arranger
-    - WOO
-    - Learner
-    - Context
-    - Competition
-    - Analytical
+- Hard to know what to say on this thing, other than I love people and learning. Feel free to reach out if you ever wanna chat! 
+- I'm a huge fan of Clifton Strengths (learn more [here](https://www.gallup.com/cliftonstrengths/en/strengthsfinder.aspx))
+  - My top 10
+    - <span style="background-color:#2870cd">Positivity</span>
+    - <span style="background-color:#e97200">Communication</span>
+    - <span style="background-color:#7b2481">Achiever</span>
+    - <span style="background-color:#e97200">Maximizer</span>
+    - <span style="background-color:#7b2481">Arranger</span>
+    - <span style="background-color:#e97200">WOO</span>
+    - <span style="background-color:#3e945d">Learner</span>
+    - <span style="background-color:#3e945d">Context</span>
+    - <span style="background-color:#e97200">Competition</span>
+    - <span style="background-color:#3e945d">Analytical</span>
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
