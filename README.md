@@ -4,16 +4,16 @@
 - Hard to know what to say on this thing, other than I love people and learning. Feel free to reach out if you ever wanna chat! 
 - I'm a huge fan of Clifton Strengths (learn more [here](https://www.gallup.com/cliftonstrengths/en/strengthsfinder.aspx))
   - My top 10
-    - <span style="color:#2870cd">Positivity</span>
-    - <span style="background-color:#e97200">Communication</span>
-    - <span style="background-color:#7b2481">Achiever</span>
-    - <span style="background-color:#e97200">Maximizer</span>
-    - <span style="background-color:#7b2481">Arranger</span>
-    - <span style="background-color:#e97200">WOO</span>
-    - <span style="background-color:#3e945d">Learner</span>
-    - <span style="background-color:#3e945d">Context</span>
-    - <span style="background-color:#e97200">Competition</span>
-    - <span style="background-color:#3e945d">Analytical</span>
+    - Positivity
+    - Communication
+    - Achiever
+    - Maximizer
+    - Arranger
+    - WOO
+    - Learner
+    - Context
+    - Competition
+    - Analytical
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
